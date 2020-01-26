@@ -1,2 +1,6 @@
 # Memes
-Best code for jokes
+
+
+> "Certified Best Meme Repository on GitHub"
+> 
+> -- <cite>Linus Torvalds</cite>
